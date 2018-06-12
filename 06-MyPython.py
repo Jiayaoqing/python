@@ -1,0 +1,1 @@
+print("-------------------\n姓名: itcast\nQQ:xxxxxxx\n手机号:131xxxxxx\n公司地址:北京市xxxx\n-------------------\n")

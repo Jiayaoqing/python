@@ -1,0 +1,7 @@
+price = input("收银员输入苹果的价格，单位：元/斤\n")
+number = input("收银员输入苹果的数量，单位：斤\n")
+#money1 = float(price) * float(number)
+print("计算并且输出付款金额:\n", float(price) * float(number))
+money2 = input("用户付款：\n")
+money = float(money2)-float(price) * float(number)
+print("显示客户剩余金钱:\n", money)
